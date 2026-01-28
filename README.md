@@ -15,8 +15,11 @@ Buka index.html di browser
 Buka 2 tab browser
 Ketik pesan di salah satu tab
 
+
+
+
 <div align="center">
-  <img height="200" src="28845d31cf36c421406e5342548db3c3.jpg"  />
+  <img height="200" src="[28845d31cf36c421406e5342548db3c3.jpg](https://id.pinterest.com/pin/56435801577845920/)"  />
 </div>
 
 ###
