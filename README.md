@@ -17,21 +17,5 @@ Ketik pesan di salah satu tab
 
 
 
-
-<div align="center">
-  <img height="200" src="[28845d31cf36c421406e5342548db3c3.jpg](https://id.pinterest.com/pin/56435801577845920/)"  />
-</div>
-
-###
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Zxyninety">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zxyninety&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ![siswayangtidakmencolok-afk GitHub stats](https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=transparent)
 
